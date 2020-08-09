@@ -1,4 +1,11 @@
-### Hi there GitHub is using me 👋
+### Hi there I am Zy :D
+
+- 🔭 I'm currently working on Sharecord
+- 🌱 I’m currently learning [Capacitor](https://capacitorjs.com)
+- 📫 Come join my [Discord Server](https://zyrouge.gq/discord) to have some talk :)
+- 😄 Pronouns: zywouge (Weebo)
+- ⚡ Fun fact: I like gaming ;p
+- 🌐 Check out my website at [zyrouge.gq](https://zyrouge.gq/)
 
 <!--
 **zyrouge/zyrouge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
