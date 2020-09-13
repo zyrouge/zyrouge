@@ -40,6 +40,6 @@ genius-lyrics | [GitHub](https://github.com/zyrouge/genius-lyrics) | Lyrics fetc
 - Steam: [\_zyrouge\_](https://steamcommunity.com/id/_zyrouge_)
 - Twitch: [zyrouge](https://www.twitch.tv/zyrouge)
 - Patreon: [zyrouge](https://zyrouge.gq/patreon)
-- Spotify: [Zyro Plays](https://open.spotify.com/playlist/3RSl8EyfAO6kdpODN0jDfl?si=XgKkDqf0Rt6m9y2yERzEFA)
+- Spotify: [Zyrouge](https://open.spotify.com/playlist/3RSl8EyfAO6kdpODN0jDfl?si=XgKkDqf0Rt6m9y2yERzEFA)
 - Reddit: [u/zyrouge](https://www.reddit.com/user/zyrouge)
 - Facebook: [zyrouge95](https://www.facebook.com/zyrouge95)
