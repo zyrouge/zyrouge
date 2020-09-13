@@ -1,9 +1,9 @@
 ### Hi there I am Zy :D
 
-- 🔭 I'm currently working on [Sharecord](https://github.com/zyrouge/sharecord)
-- 🌱 I’m currently learning [Capacitor](https://capacitorjs.com)
+- 🔭 I'm currently working on none
+- 🌱 I’m currently learning none
 - 📫 Come join my [Discord Server](https://zyrouge.gq/discord) to have some talk :)
-- 😄 Pronouns: zywouge (Weebo)
+- 😄 Pronouns: zy-row-g
 - ⚡ Fun fact: I like gaming ;p
 - 🌐 Check out my website at [zyrouge.gq](https://zyrouge.gq/)
 
