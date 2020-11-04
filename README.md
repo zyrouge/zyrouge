@@ -13,11 +13,12 @@
 
 Name | Source | Description
 --- | --- | ---
-Sharecord | [GitHub](https://github.com/zyrouge/sharecord) | File Sharing Made Easy
-API | [URL](https://api.zyrouge.gq/) | Simple API :thinking:
+Keyvify | [GitHub](https://github.com/zyrouge/Keyvify) [NPM](https://npmjs.com/keyvify) [Web](https://keyvify.js.org) | Simple key-value supporting many dbs
+Sharecord (Unfinished) | [GitHub](https://github.com/zyrouge/sharecord) | File Sharing Made Easy
+API | [URL](https://dev.zyrouge.gq/api) | Simple API :thinking:
 jsdoc-skyceil | [GitHub](https://github.com/zyrouge/jsdoc-skyceil) [NPM](https://npmjs.com/jsdoc-skyceil) [Web](https://jsdoc-skyceil.zyrouge.gq) | A Clean JSDoc theme
-Aurora Bot | [GitHub](https://github.com/zyrouge/aurora-bot) | Simple Discord Boat
-genius-lyrics | [GitHub](https://github.com/zyrouge/genius-lyrics) | Lyrics fetcher
+Aurora Bot (Unfinished) | [GitHub](https://github.com/zyrouge/aurora-bot) | Simple Discord Boat
+genius-lyrics | [GitHub](https://github.com/zyrouge/genius-lyrics) [NPM](https://npmjs.com/genius-lyrics) [Web](https://genius-lyrics.zyrouge.gq) | Lyrics fetcher
 
 ---
 
