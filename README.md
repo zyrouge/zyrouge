@@ -1,4 +1,4 @@
-### Hi there I am Zy :D
+## 👋 Hi there I am Zy
 
 - 🔭 I'm currently working on none
 - 🌱 I’m currently learning Python
@@ -7,9 +7,7 @@
 - ⚡ Fun fact: I like gaming ;p
 - 🌐 Check out my website at [zyrouge.gq](https://zyrouge.gq/)
 
----
-
-### Some of my Projects :o
+## 🚧 Some of my Projects
 
 Name | Source | Description
 --- | --- | ---
@@ -20,17 +18,13 @@ jsdoc-skyceil | [GitHub](https://github.com/zyrouge/jsdoc-skyceil) [NPM](https:/
 ~~Aurora Bot (Unfinished)~~ | ~~[GitHub](https://github.com/zyrouge/aurora-bot)~~ | ~~Simple Discord Boat~~
 genius-lyrics | [GitHub](https://github.com/zyrouge/genius-lyrics) [NPM](https://npmjs.com/genius-lyrics) [Web](https://genius-lyrics.zyrouge.gq) | Lyrics fetcher
 
----
-
-### Friends x)
+## 😄 Mah Friends
 
 - [@Snowflake](https://github.com/Snowflake107)
 - [@ItzMeRm](https://github.com/ItzMeRM)
 - [@Saif](https://github.com/thanos783)
 
----
-
-### Social Media :)
+## 📙 Social Media
 
 - Mail: me@zyrouge.gq
 - GitHub: [@Zyrouge](https://github.com/zyrouge)
