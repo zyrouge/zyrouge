@@ -1,7 +1,7 @@
 ### Hi there I am Zy :D
 
 - 🔭 I'm currently working on none
-- 🌱 I’m currently learning none
+- 🌱 I’m currently learning Python
 - 📫 Come join my [Discord Server](https://zyrouge.gq/discord) to have some talk :)
 - 😄 Pronouns: zy-row-g
 - ⚡ Fun fact: I like gaming ;p
