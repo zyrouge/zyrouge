@@ -9,6 +9,8 @@
 
 ## 🚧 Some of my Projects
 
+[Checkout all my projects here](https://zyrouge.gq/projects)
+
 Name | Source | Description
 --- | --- | ---
 Keyvify | [GitHub](https://github.com/zyrouge/Keyvify) [NPM](https://npmjs.com/keyvify) [Web](https://keyvify.js.org) | Simple key-value supporting many dbs
