@@ -30,9 +30,9 @@ genius-lyrics | [GitHub](https://github.com/zyrouge/genius-lyrics) [NPM](https:/
 
 - Mail: me@zyrouge.gq
 - GitHub: [@Zyrouge](https://github.com/zyrouge)
-- Discord Server: [Zyrouge Development](https://zyrouge.gq/discord)
+- Discord Server: [ZDev HQ](https://zyrouge.gq/discord)
 - YouTube: [Zyrouge Development](https://zyrouge.gq/youtube)
-- Twitter: [zyrouge](https://twitter.com/_zyrouge_)
+- Twitter: [\_zyrouge\_](https://twitter.com/_zyrouge_)
 - Instagram: [\_zyrouge\_](https://instagram.com/_zyrouge_)
 - Steam: [\_zyrouge\_](https://steamcommunity.com/id/_zyrouge_)
 - Twitch: [zyrouge](https://www.twitch.tv/zyrouge)
