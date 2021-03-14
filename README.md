@@ -30,7 +30,6 @@
 - Patreon: [zyrouge](https://zyrouge.gq/patreon)
 - Spotify: [Zyrouge](https://open.spotify.com/playlist/3RSl8EyfAO6kdpODN0jDfl?si=XgKkDqf0Rt6m9y2yERzEFA)
 - Reddit: [u/zyrouge](https://www.reddit.com/user/zyrouge)
-- Facebook: [zyrouge95](https://www.facebook.com/zyrouge95)
 
 </details>
 
