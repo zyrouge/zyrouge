@@ -31,3 +31,19 @@
 - Spotify: [Zyrouge](https://open.spotify.com/playlist/3RSl8EyfAO6kdpODN0jDfl?si=XgKkDqf0Rt6m9y2yERzEFA)
 - Reddit: [u/zyrouge](https://www.reddit.com/user/zyrouge)
 - Facebook: [zyrouge95](https://www.facebook.com/zyrouge95)
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Status](https://github-readme-stats.vercel.app/api?username=zyrouge&show_icons=true&hide_border=true&theme=radical)](https://github.com/zyrouge)
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Top langs </summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrouge&layout=compact&theme=radical)](https://github.com/zyrouge)
+
+</details>
