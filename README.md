@@ -19,10 +19,9 @@
 
 # 📙 Social Media
 
-- Mail: me@zyrouge.gq
 - GitHub: [@Zyrouge](https://github.com/zyrouge)
-- Discord Server: [Zyrouge's Cubicle](https://zyrouge.gq/discord)
-- YouTube: [Zyrouge](https://zyrouge.gq/youtube)
+- Discord Server: [Zyrouge's Cubicle](https://discord.gg/8KV5zCg)
+<!-- - YouTube: [Zyrouge](https://zyrouge.gq/youtube) -->
 - Twitter: [\_zyrouge\_](https://twitter.com/_zyrouge_)
 - Instagram: [\_zyrouge\_](https://instagram.com/_zyrouge_)
 - Steam: [\_zyrouge\_](https://steamcommunity.com/id/_zyrouge_)
