@@ -1,10 +1,10 @@
 # 👋 Hi there I am Zy
 
-- 🔭 I'm currently working on none
-- 🌱 I’m currently learning Python
+- 🔭 I'm currently working on **none**
+- 🌱 I’m currently learning **Python**
 - 📫 Come join my [Discord Server](https://zyrouge.is-a.dev/discord) to have some talk :)
-- 😄 Pronouns: zy-row-g
-- ⚡ Fun fact: I like gaming ;p
+- 😄 Pronouns: zy-rouge
+- ⚡ Fun fact: I play games and watch anime :)
 - 🌐 Check out my website at [zyrouge.is-a.dev](https://zyrouge.is-a.dev/)
 
 # 🚧 Projects
