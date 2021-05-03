@@ -27,7 +27,7 @@
 - Steam: [\_zyrouge\_](https://steamcommunity.com/id/_zyrouge_)
 - Twitch: [zyrouge](https://www.twitch.tv/zyrouge)
 - Patreon: [zyrouge](https://zyrouge.is-a.dev/patreon)
-- Spotify: [Zyrouge](https://open.spotify.com/playlist/3RSl8EyfAO6kdpODN0jDfl?si=XgKkDqf0Rt6m9y2yERzEFA)
+- Spotify: [Zyrouge](https://open.spotify.com/playlist/06BQB5o08EPUXkgu7wmqsT)
 - Reddit: [u/zyrouge](https://www.reddit.com/user/zyrouge)
 
 </details>
