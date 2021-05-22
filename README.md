@@ -15,7 +15,7 @@
 
 - [@Snowflake](https://github.com/Snowflake107)
 - [@ItzMeRm](https://github.com/ItzMeRM)
-- [@Saif](https://github.com/thanos783)
+- [@Kant](https://github.com/codekant)
 
 # 📙 Social Media
 
