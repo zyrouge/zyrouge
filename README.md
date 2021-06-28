@@ -1,7 +1,7 @@
 # 👋 Hi there I am Zy
 
-- 🔭 I'm currently working on **[Yukino](https://github.com/zyrouge/yukino-app)**
-- 🌱 I’m currently learning **Python**
+- 🔭 I'm currently working: [Yukino](https://github.com/zyrouge/yukino-app)
+- 🌱 I’m currently learning: Python
 - 📫 Come join my [Discord Server](https://zyrouge.is-a.dev/discord) to have some talk :)
 - 😄 Pronouns: zy-rouge
 - ⚡ Fun fact: I play games and watch anime :)
