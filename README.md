@@ -13,7 +13,7 @@
 
 # 😄 Friends
 
-- [@Snowflake](https://github.com/Snowflake107)
+- [@Andromeda](https://github.com/devandromeda)
 - [@ItzMeRm](https://github.com/ItzMeRM)
 - [@Kant](https://github.com/codekant)
 
