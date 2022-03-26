@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working: -
 - 🌱 I’m currently learning: C/Dart
-- 📫 Come join my [Discord Server](https://zyrouge.is-a.dev/discord) to have some talk :)
+- 📫 Come join my [Discord Server](https://zyrouge.is-a.dev/redirect/discord) to have some talk :)
 - 😄 Pronouns: zy-rouge
 - ⚡ Fun fact: I play games and watch anime :)
 - 🌐 Check out my website at [zyrouge.is-a.dev](https://zyrouge.is-a.dev/)
