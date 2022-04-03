@@ -1,7 +1,7 @@
 # 👋 Hi there I am Zy
 
 - 🔭 I'm currently working: -
-- 🌱 I’m currently learning: C/Dart
+- 🌱 I’m currently learning: [Golang](https://go.dev/)
 - 📫 Come join my [Discord Server](https://zyrouge.is-a.dev/redirect/discord) to have some talk :)
 - 😄 Pronouns: zy-rouge
 - ⚡ Fun fact: I play games and watch anime :)
