@@ -1,4 +1,4 @@
-# 👋 Hi there I am Zy
+# 👋 Hi there I am Zyrouge
 
 - 🔭 I'm currently working: -
 - 🌱 I’m currently learning: [Golang](https://go.dev/)
