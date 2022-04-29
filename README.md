@@ -7,12 +7,6 @@
 -   😄 Pronouns: **zy-rouge**
 -   🙃 Fun fact: **I'm a melophine and love philosophy!**
 
-[![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Website&color=d946ef&logo=aboutdotme&logoColor=ffffff)](https:///zyrouge.is-a.dev/)
-[![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=d946ef&logo=github&logoColor=ffffff)](https://github.com/zyrouge)
-[![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=d946ef&logo=discord&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
-[![Instagram](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=d946ef&logo=instagram&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
-[![Twitter](https://img.shields.io/static/v1?style=flat-square&label=&message=Twitter&color=d946ef&logo=twitter&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
-
 ## Languages & Tools
 
 ![Javascript](https://img.shields.io/static/v1?style=flat-square&label=&message=Node.js&color=d946ef&logo=javascript&logoColor=ffffff)
@@ -40,3 +34,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrouge&layout=compact&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=D946EF&bg_color=000000&hide_title=true)](https://github.com/zyrouge)
 
 </details>
+
+## Socials
+
+[![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Website&color=d946ef&logo=aboutdotme&logoColor=ffffff)](https:///zyrouge.is-a.dev/)
+[![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=d946ef&logo=github&logoColor=ffffff)](https://github.com/zyrouge)
+[![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=d946ef&logo=discord&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
+[![Instagram](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=d946ef&logo=instagram&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
+[![Twitter](https://img.shields.io/static/v1?style=flat-square&label=&message=Twitter&color=d946ef&logo=twitter&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
