@@ -9,16 +9,40 @@
 
 ## Languages & Tools
 
-<div class="z-lt">
-| Langauges  |    Tools     |
-| :--------: | :----------: |
-| Javascript |   Flutter    |
-| Typescript | Tailwind CSS |
-|    HTML    |   Electron   |
-|    CSS     |     Vue      |
-|    Dart    |   MongoDB    |
-|            |     SQL      |
-</div>
+<table style="width: 100%">
+  <thead>
+    <tr>
+      <td>Langauges</td>
+      <td>Tools</td>
+    <tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Javascript</td>
+      <td>Flutter</td>
+    <tr>
+    <tr>
+      <td>Typescript</td>
+      <td>Tailwind CSS</td>
+    <tr>
+    <tr>
+      <td>Javascript</td>
+      <td>Electron</td>
+    <tr>
+    <tr>
+      <td>HTML</td>
+      <td>Vue</td>
+    <tr>
+    <tr>
+      <td>CSS</td>
+      <td>MongoDB</td>
+    <tr>
+    <tr>
+      <td>Dart</td>
+      <td>SQL</td>
+    <tr>
+  </tbody>
+</table>
 
 <details>
   <summary>⚡ GitHub Stats</summary>
@@ -33,9 +57,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrouge&layout=compact&theme=radical)](https://github.com/zyrouge)
 
 </details>
-
-<style>
-.z-lt {
-  width: 100%;
-}
-</style>
