@@ -7,9 +7,11 @@
 -   😄 Pronouns: **zy-rouge**
 -   🙃 Fun fact: **I'm a melophine and love philosophy!**
 
-<br>
-
+[![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Website&color=d946ef&logo=aboutdotme&logoColor=ffffff)](https:///zyrouge.is-a.dev/)
+[![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=d946ef&logo=github&logoColor=ffffff)](https://github.com/zyrouge)
 [![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=d946ef&logo=discord&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
+[![Instagram](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=d946ef&logo=instagram&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
+[![Twitter](https://img.shields.io/static/v1?style=flat-square&label=&message=Twitter&color=d946ef&logo=twitter&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
 
 ## Languages & Tools
 
