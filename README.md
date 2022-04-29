@@ -26,13 +26,13 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-[![Status](https://github-readme-stats.vercel.app/api?username=zyrouge&show_icons=true&hide_border=true&theme=radical)](https://github.com/zyrouge)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyrouge&show_icons=true&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=D946EF&bg_color=000000&custom_title=GitHub%20Stats)](https://github.com/zyrouge)
 
 </details>
 
 <details>
   <summary>⚡ GitHub Top langs </summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrouge&layout=compact&theme=radical)](https://github.com/zyrouge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrouge&layout=compact&title_color=D946EF&text_color=D946EF&icon_color=D946EF&bg_color=000000)](https://github.com/zyrouge)
 
 </details>
