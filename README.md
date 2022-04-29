@@ -7,8 +7,6 @@
 -   😄 Pronouns: **zy-rouge**.
 -   🙃 Fun fact: **I'm a melophine and love philosophy!**
 
-<br>
-
 ## 👨‍💻 Languages & Tools
 
 ![Node.js](https://img.shields.io/static/v1?style=flat-square&label=&message=Node.js&color=d946ef&logo=nodedotjs&logoColor=ffffff)
@@ -29,13 +27,9 @@
 ![Git](https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=d946ef&logo=git&logoColor=ffffff)
 ![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=VS%20Code&color=d946ef&logo=visualstudiocode&logoColor=ffffff)
 
-<br>
-
 |                                                                                                             Statistics                                                                                                             |                                                                                                               Top Languages                                                                                                               |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyrouge&show_icons=true&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=a234b3&bg_color=000000&hide_title=true)](https://github.com/zyrouge) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrouge&layout=compact&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=D946EF&bg_color=000000&hide_title=true)](https://github.com/zyrouge) |
-
-<br>
 
 ## 💜 Socials
 
