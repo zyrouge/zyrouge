@@ -3,11 +3,11 @@
 # 👋 Hi there, I am [Zyrouge](https://zyrouge.is-a.dev/)!
 
 -   🔭 I'm currently working: -
--   🌱 I’m currently learning: [Golang](https://go.dev/)
--   📫 Come join my [Discord Server](https://zyrouge.is-a.dev/redirect/discord) to have some talk :)
--   😄 Pronouns: zy-rouge
--   ⚡ Fun fact: I play games and watch anime :)
--   🌐 Check out my website at [zyrouge.is-a.dev]()
+-   🌱 I’m currently learning: **[Golang](https://go.dev/)**
+-   😄 Pronouns: **zy-rouge**
+-   🙃 Fun fact: **I'm a melophine and love philosophy!**
+
+[![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=d946ef&logo=discord&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
 
 ## Languages & Tools
 
