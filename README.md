@@ -21,19 +21,7 @@
 ![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=&message=MongoDB&color=d946ef&logo=mongodb&logoColor=ffffff)
 ![SQL](https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind%20CSS&color=d946ef&logo=sqlite&logoColor=ffffff)
 
-<!-- <details>
-  <summary>⚡ GitHub Stats</summary>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyrouge&show_icons=true&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=a234b3&bg_color=000000&hide_title=true)](https://github.com/zyrouge)
-
-</details>
-
-<details>
-  <summary>⚡ GitHub Top langs </summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrouge&layout=compact&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=D946EF&bg_color=000000&hide_title=true)](https://github.com/zyrouge)
-
-</details> -->
+<br>
 
 | Statistics                                                                                                                                                                                                                         | Top languages                                                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
