@@ -1,11 +1,15 @@
 [![](./media/banner.png)](https://zyrouge.is-a.dev/)
 
+<br>
+
 # 👋 Hi there, I am [Zyrouge](https://zyrouge.is-a.dev/)!
 
 -   🔭 I'm currently working on: -
 -   🌱 I’m currently learning: **[Golang](https://go.dev/)**.
 -   😄 Pronouns: **zy-rouge**.
 -   🙃 Fun fact: **I'm a melophine and love philosophy!**
+
+<br>
 
 ## 👨‍💻 Languages & Tools
 
@@ -32,6 +36,8 @@
 |                                                                                                             Statistics                                                                                                             |                                                                                                               Top Languages                                                                                                               |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyrouge&show_icons=true&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=a234b3&bg_color=000000&hide_title=true)](https://github.com/zyrouge) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrouge&layout=compact&hide_border=true&title_color=D946EF&text_color=D946EF&icon_color=D946EF&bg_color=000000&hide_title=true)](https://github.com/zyrouge) |
+
+<br>
 
 ## 💜 Socials
 
