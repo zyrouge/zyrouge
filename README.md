@@ -7,6 +7,8 @@
 -   😄 Pronouns: **zy-rouge**
 -   🙃 Fun fact: **I'm a melophine and love philosophy!**
 
+<br>
+
 [![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=d946ef&logo=discord&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
 
 ## Languages & Tools
