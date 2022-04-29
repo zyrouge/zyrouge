@@ -9,14 +9,16 @@
 
 ## Languages & Tools
 
-|              |            |
-| :----------: | :--------: |
-|  Javascript  | Typescript |
-|     HTML     |    CSS     |
-|     Dart     |  Electron  |
-|   Flutter    |    Vue     |
-| Tailwind CSS |  MongoDB   |
-|     SQL      |            |
+<div class="z-lt">
+| Langauges  |    Tools     |
+| :--------: | :----------: |
+| Javascript |   Flutter    |
+| Typescript | Tailwind CSS |
+|    HTML    |   Electron   |
+|    CSS     |     Vue      |
+|    Dart    |   MongoDB    |
+|            |     SQL      |
+</div>
 
 <details>
   <summary>⚡ GitHub Stats</summary>
@@ -31,3 +33,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrouge&layout=compact&theme=radical)](https://github.com/zyrouge)
 
 </details>
+
+<style>
+.z-lt {
+  width: 100%;
+}
+</style>
