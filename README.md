@@ -41,3 +41,4 @@
 [![Instagram](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=d946ef&logo=instagram&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
 [![Twitter](https://img.shields.io/static/v1?style=flat-square&label=&message=Twitter&color=d946ef&logo=twitter&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
 [![Spotify](https://img.shields.io/static/v1?style=flat-square&label=&message=Spotify&color=d946ef&logo=spotify&logoColor=ffffff)](https://open.spotify.com/user/1j18hwidprlbek2qngojdan7d)
+[![Mail](https://img.shields.io/static/v1?style=flat-square&label=&message=Mail&color=d946ef&logo=gmail&logoColor=ffffff)](mailto:zyrouge@gmail.com)
