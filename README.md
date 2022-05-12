@@ -4,7 +4,7 @@
 
 -   🔭 I'm currently working on: -
 -   🌱 I’m currently learning: **[Golang](https://go.dev/)**.
--   😄 Pronouns: **zy-rouge**.
+-   😄 Pronouns: **he / him**.
 -   🙃 Fun fact: **I'm a melophine and love philosophy!**
 
 ## 👨‍💻 Languages & Tools
