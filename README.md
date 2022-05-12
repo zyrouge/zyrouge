@@ -5,7 +5,7 @@
 -   🔭 I'm currently working on: -
 -   🌱 I’m currently learning: **[Golang](https://go.dev/)**.
 -   😄 Pronouns: **he / him**.
--   🙃 Fun fact: **I'm a melophine and love philosophy!**
+-   🙃 Fun fact: **I'm a melophile and love philosophy!**
 
 ## 👨‍💻 Languages & Tools
 
