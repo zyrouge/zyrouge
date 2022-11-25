@@ -2,8 +2,8 @@
 
 # 👋 Hi there, I am [Zyrouge](https://zyrouge.is-a.dev/)!
 
--   🔭 I'm currently working on: -
--   🌱 I’m currently learning: **[Golang](https://go.dev/)**.
+<!-- -   🔭 I'm currently working on: - -->
+<!-- -   🌱 I’m currently learning: **[Golang](https://go.dev/)**. -->
 -   😄 Pronouns: **he / him**.
 -   🙃 Fun fact: **I'm a melophile and love philosophy!**
 
