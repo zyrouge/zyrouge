@@ -15,6 +15,7 @@
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=&message=HTML&color=d946ef&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=CSS&color=d946ef&logo=css3&logoColor=ffffff)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&label=&message=Dart&color=d946ef&logo=dart&logoColor=ffffff)
+![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=&message=Kotlin&color=d946ef&logo=kotlin&logoColor=ffffff)
 
 ![Flutter](https://img.shields.io/static/v1?style=flat-square&label=&message=Flutter&color=d946ef&logo=flutter&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind%20CSS&color=d946ef&logo=tailwindcss&logoColor=ffffff)
@@ -22,10 +23,12 @@
 ![Vue](https://img.shields.io/static/v1?style=flat-square&label=&message=Vue&color=d946ef&logo=vuedotjs&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=&message=MongoDB&color=d946ef&logo=mongodb&logoColor=ffffff)
 ![SQL](https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind%20CSS&color=d946ef&logo=sqlite&logoColor=ffffff)
+![Jetpack Compose](https://img.shields.io/static/v1?style=flat-square&label=&message=Compose&color=d946ef&logo=jetpack-compose&logoColor=ffffff)
 
 ![Windows](https://img.shields.io/static/v1?style=flat-square&label=&message=Windows&color=d946ef&logo=windows&logoColor=ffffff)
+![Windows](https://img.shields.io/static/v1?style=flat-square&label=&message=Windows&color=d946ef&logo=windows&logoColor=ffffff)
 ![Git](https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=d946ef&logo=git&logoColor=ffffff)
-![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=VS%20Code&color=d946ef&logo=visualstudiocode&logoColor=ffffff)
+![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&color=d946ef&logo=linux&logoColor=ffffff)
 
 <br>
 
