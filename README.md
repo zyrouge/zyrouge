@@ -26,9 +26,9 @@
 ![Jetpack Compose](https://img.shields.io/static/v1?style=flat-square&label=&message=Jetpack%20Compose&color=d946ef&logo=jetpack-compose&logoColor=ffffff)
 
 ![Windows](https://img.shields.io/static/v1?style=flat-square&label=&message=Windows&color=d946ef&logo=windows&logoColor=ffffff)
-![Windows](https://img.shields.io/static/v1?style=flat-square&label=&message=Windows&color=d946ef&logo=windows&logoColor=ffffff)
+![Linux](https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&color=d946ef&logo=linux&logoColor=ffffff)
 ![Git](https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=d946ef&logo=git&logoColor=ffffff)
-![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&color=d946ef&logo=linux&logoColor=ffffff)
+![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=VS%20Code&color=d946ef&logo=visualstudiocode&logoColor=ffffff)
 
 <br>
 
