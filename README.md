@@ -22,7 +22,7 @@
 ![Electron](https://img.shields.io/static/v1?style=flat-square&label=&message=Electron&color=d946ef&logo=electron&logoColor=ffffff)
 ![Vue](https://img.shields.io/static/v1?style=flat-square&label=&message=Vue&color=d946ef&logo=vuedotjs&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=&message=MongoDB&color=d946ef&logo=mongodb&logoColor=ffffff)
-![SQL](https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind%20CSS&color=d946ef&logo=sqlite&logoColor=ffffff)
+![SQL](https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=d946ef&logo=sqlite&logoColor=ffffff)
 ![Jetpack Compose](https://img.shields.io/static/v1?style=flat-square&label=&message=Jetpack%20Compose&color=d946ef&logo=jetpack-compose&logoColor=ffffff)
 
 ![Windows](https://img.shields.io/static/v1?style=flat-square&label=&message=Windows&color=d946ef&logo=windows&logoColor=ffffff)
