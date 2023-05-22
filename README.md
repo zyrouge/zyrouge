@@ -5,6 +5,8 @@ I am a Software Developer with a love for open-source.<br>
 Other than that, I love philosophy, anime and music.
 </p>
 
+<br>
+
 [![](./media/divider.png)](https://zyrouge.is-a.dev/)
 
 ## 👨‍💻 Languages & Tools
