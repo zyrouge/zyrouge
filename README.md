@@ -5,6 +5,8 @@ I am a Software Developer with a love for open-source.<br>
 Other than that, I love philosophy, anime and music.
 </p>
 
+[![](./media/divider.png)](https://zyrouge.is-a.dev/)
+
 ## 👨‍💻 Languages & Tools
 
 ![Node.js](https://img.shields.io/static/v1?style=flat-square&label=&message=Node.js&color=d946ef&logo=nodedotjs&logoColor=ffffff)
