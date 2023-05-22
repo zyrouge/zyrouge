@@ -1,11 +1,9 @@
-[![](./media/banner.png)](https://zyrouge.is-a.dev/)
+[![](./media/banner-friendly-transparent.png)](https://zyrouge.is-a.dev/)
 
-# 👋 Hi there, I am [Zyrouge](https://zyrouge.is-a.dev/)!
-
-<!-- -   🔭 I'm currently working on: - -->
-<!-- -   🌱 I’m currently learning: **[Golang](https://go.dev/)**. -->
--   😄 Pronouns: **he / him**.
--   🙃 Fun fact: **I'm a melophile and love philosophy!**
+<p align="center">
+I am a Software Developer with a love for open-source.<br>
+Other than that, I love philosophy, anime and music.
+</p>
 
 ## 👨‍💻 Languages & Tools
 
