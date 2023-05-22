@@ -11,26 +11,26 @@ Other than that, I love philosophy, anime and music.
 
 ## 👨‍💻 Languages & Tools
 
-![Node.js](https://img.shields.io/static/v1?style=flat-square&label=&message=Node.js&color=d946ef&logo=nodedotjs&logoColor=ffffff)
-![Javascript](https://img.shields.io/static/v1?style=flat-square&label=&message=Javascript&color=d946ef&logo=javascript&logoColor=ffffff)
-![Typescript](https://img.shields.io/static/v1?style=flat-square&label=&message=Typescript&color=d946ef&logo=typescript&logoColor=ffffff)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=&message=HTML&color=d946ef&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=CSS&color=d946ef&logo=css3&logoColor=ffffff)
-![Dart](https://img.shields.io/static/v1?style=flat-square&label=&message=Dart&color=d946ef&logo=dart&logoColor=ffffff)
-![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=&message=Kotlin&color=d946ef&logo=kotlin&logoColor=ffffff)
+![Node.js](https://img.shields.io/static/v1?style=flat-square&label=&message=Node.js&color=171717&logo=nodedotjs&logoColor=d946ef)
+![Javascript](https://img.shields.io/static/v1?style=flat-square&label=&message=Javascript&color=171717&logo=javascript&logoColor=d946ef)
+![Typescript](https://img.shields.io/static/v1?style=flat-square&label=&message=Typescript&color=171717&logo=typescript&logoColor=d946ef)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=&message=HTML&color=171717&logo=html5&logoColor=d946ef)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=CSS&color=171717&logo=css3&logoColor=d946ef)
+![Dart](https://img.shields.io/static/v1?style=flat-square&label=&message=Dart&color=171717&logo=dart&logoColor=d946ef)
+![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=&message=Kotlin&color=171717&logo=kotlin&logoColor=d946ef)
 
-![Flutter](https://img.shields.io/static/v1?style=flat-square&label=&message=Flutter&color=d946ef&logo=flutter&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind%20CSS&color=d946ef&logo=tailwindcss&logoColor=ffffff)
-![Electron](https://img.shields.io/static/v1?style=flat-square&label=&message=Electron&color=d946ef&logo=electron&logoColor=ffffff)
-![Vue](https://img.shields.io/static/v1?style=flat-square&label=&message=Vue&color=d946ef&logo=vuedotjs&logoColor=ffffff)
-![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=&message=MongoDB&color=d946ef&logo=mongodb&logoColor=ffffff)
-![SQL](https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=d946ef&logo=sqlite&logoColor=ffffff)
-![Jetpack Compose](https://img.shields.io/static/v1?style=flat-square&label=&message=Jetpack%20Compose&color=d946ef&logo=jetpack-compose&logoColor=ffffff)
+![Flutter](https://img.shields.io/static/v1?style=flat-square&label=&message=Flutter&color=171717&logo=flutter&logoColor=d946ef)
+![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind%20CSS&color=171717&logo=tailwindcss&logoColor=d946ef)
+![Electron](https://img.shields.io/static/v1?style=flat-square&label=&message=Electron&color=171717&logo=electron&logoColor=d946ef)
+![Vue](https://img.shields.io/static/v1?style=flat-square&label=&message=Vue&color=171717&logo=vuedotjs&logoColor=d946ef)
+![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=&message=MongoDB&color=171717&logo=mongodb&logoColor=d946ef)
+![SQL](https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=171717&logo=sqlite&logoColor=d946ef)
+![Jetpack Compose](https://img.shields.io/static/v1?style=flat-square&label=&message=Jetpack%20Compose&color=171717&logo=jetpack-compose&logoColor=d946ef)
 
-![Windows](https://img.shields.io/static/v1?style=flat-square&label=&message=Windows&color=d946ef&logo=windows&logoColor=ffffff)
-![Linux](https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&color=d946ef&logo=linux&logoColor=ffffff)
-![Git](https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=d946ef&logo=git&logoColor=ffffff)
-![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=VS%20Code&color=d946ef&logo=visualstudiocode&logoColor=ffffff)
+![Windows](https://img.shields.io/static/v1?style=flat-square&label=&message=Windows&color=171717&logo=windows&logoColor=d946ef)
+![Linux](https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&color=171717&logo=linux&logoColor=d946ef)
+![Git](https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=171717&logo=git&logoColor=d946ef)
+![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=VS%20Code&color=171717&logo=visualstudiocode&logoColor=d946ef)
 
 <br>
 
@@ -40,10 +40,10 @@ Other than that, I love philosophy, anime and music.
 
 ## 💜 Socials
 
-[![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Website&color=d946ef&logo=aboutdotme&logoColor=ffffff)](https:///zyrouge.is-a.dev/)
-[![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=d946ef&logo=github&logoColor=ffffff)](https://github.com/zyrouge)
-[![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=d946ef&logo=discord&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/discord)
-[![Instagram](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=d946ef&logo=instagram&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/instagram)
-[![Twitter](https://img.shields.io/static/v1?style=flat-square&label=&message=Twitter&color=d946ef&logo=twitter&logoColor=ffffff)](https://zyrouge.is-a.dev/redirect/twitter)
-[![Spotify](https://img.shields.io/static/v1?style=flat-square&label=&message=Spotify&color=d946ef&logo=spotify&logoColor=ffffff)](https://open.spotify.com/user/1j18hwidprlbek2qngojdan7d)
-[![Mail](https://img.shields.io/static/v1?style=flat-square&label=&message=Mail&color=d946ef&logo=gmail&logoColor=ffffff)](mailto:zyrouge@gmail.com)
+[![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Website&color=171717&logo=aboutdotme&logoColor=d946ef)](https:///zyrouge.is-a.dev/)
+[![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=171717&logo=github&logoColor=d946ef)](https://github.com/zyrouge)
+[![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=171717&logo=discord&logoColor=d946ef)](https://zyrouge.is-a.dev/redirect/discord)
+[![Instagram](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=171717&logo=instagram&logoColor=d946ef)](https://zyrouge.is-a.dev/redirect/instagram)
+[![Twitter](https://img.shields.io/static/v1?style=flat-square&label=&message=Twitter&color=171717&logo=twitter&logoColor=d946ef)](https://zyrouge.is-a.dev/redirect/twitter)
+[![Spotify](https://img.shields.io/static/v1?style=flat-square&label=&message=Spotify&color=171717&logo=spotify&logoColor=d946ef)](https://open.spotify.com/user/1j18hwidprlbek2qngojdan7d)
+[![Mail](https://img.shields.io/static/v1?style=flat-square&label=&message=Mail&color=171717&logo=gmail&logoColor=d946ef)](mailto:zyrouge@gmail.com)
