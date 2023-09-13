@@ -42,8 +42,7 @@ Other than that, I love philosophy, anime and music.
 
 [![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Website&color=0a0a0a&logo=aboutdotme&logoColor=d946ef)](https:///zyrouge.is-a.dev/)
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=0a0a0a&logo=github&logoColor=d946ef)](https://github.com/zyrouge)
-[![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=0a0a0a&logo=discord&logoColor=d946ef)](https://zyrouge.is-a.dev/redirect/discord)
-[![Instagram](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=0a0a0a&logo=instagram&logoColor=d946ef)](https://zyrouge.is-a.dev/redirect/instagram)
-[![Twitter](https://img.shields.io/static/v1?style=flat-square&label=&message=Twitter&color=0a0a0a&logo=twitter&logoColor=d946ef)](https://zyrouge.is-a.dev/redirect/twitter)
+[![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=0a0a0a&logo=discord&logoColor=d946ef)](https://discord.com/invite/8KV5zCg)
+[![Mastodon](https://img.shields.io/static/v1?style=flat-square&label=&message=Mastodon&color=0a0a0a&logo=mastodon&logoColor=d946ef)](https://mastodon.social/@zyrouge)
 [![Spotify](https://img.shields.io/static/v1?style=flat-square&label=&message=Spotify&color=0a0a0a&logo=spotify&logoColor=d946ef)](https://open.spotify.com/user/1j18hwidprlbek2qngojdan7d)
 [![Mail](https://img.shields.io/static/v1?style=flat-square&label=&message=Mail&color=0a0a0a&logo=gmail&logoColor=d946ef)](mailto:zyrouge@gmail.com)
