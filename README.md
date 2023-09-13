@@ -20,12 +20,14 @@ Other than that, I love philosophy, anime and music.
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=&message=Kotlin&color=0a0a0a&logo=kotlin&logoColor=d946ef)
 
 ![Flutter](https://img.shields.io/static/v1?style=flat-square&label=&message=Flutter&color=0a0a0a&logo=flutter&logoColor=d946ef)
-![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind%20CSS&color=0a0a0a&logo=tailwindcss&logoColor=d946ef)
+![Jetpack Compose](https://img.shields.io/static/v1?style=flat-square&label=&message=Jetpack%20Compose&color=0a0a0a&logo=jetpack-compose&logoColor=d946ef)
 ![Electron](https://img.shields.io/static/v1?style=flat-square&label=&message=Electron&color=0a0a0a&logo=electron&logoColor=d946ef)
+
 ![Vue](https://img.shields.io/static/v1?style=flat-square&label=&message=Vue&color=0a0a0a&logo=vuedotjs&logoColor=d946ef)
+![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=Tailwind%20CSS&color=0a0a0a&logo=tailwindcss&logoColor=d946ef)
+
 ![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=&message=MongoDB&color=0a0a0a&logo=mongodb&logoColor=d946ef)
 ![SQL](https://img.shields.io/static/v1?style=flat-square&label=&message=SQL&color=0a0a0a&logo=sqlite&logoColor=d946ef)
-![Jetpack Compose](https://img.shields.io/static/v1?style=flat-square&label=&message=Jetpack%20Compose&color=0a0a0a&logo=jetpack-compose&logoColor=d946ef)
 
 ![Windows](https://img.shields.io/static/v1?style=flat-square&label=&message=Windows&color=0a0a0a&logo=windows&logoColor=d946ef)
 ![Linux](https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&color=0a0a0a&logo=linux&logoColor=d946ef)
