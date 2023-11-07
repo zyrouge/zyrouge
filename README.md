@@ -35,7 +35,7 @@ Other than that, I love philosophy, anime and music.
 ![Linux](https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&color=0a0a0a&logo=linux&logoColor=d946ef)
 ![Git](https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=0a0a0a&logo=git&logoColor=d946ef)
 ![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=VS%20Code&color=0a0a0a&logo=visualstudiocode&logoColor=d946ef)
-![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=Podman&color=0a0a0a&logo=podman&logoColor=d946ef)
+![Podman](https://img.shields.io/static/v1?style=flat-square&label=&message=Podman&color=0a0a0a&logo=podman&logoColor=d946ef)
 
 <br>
 
