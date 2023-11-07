@@ -18,6 +18,8 @@ Other than that, I love philosophy, anime and music.
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=CSS&color=0a0a0a&logo=css3&logoColor=d946ef)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&label=&message=Dart&color=0a0a0a&logo=dart&logoColor=d946ef)
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=&message=Kotlin&color=0a0a0a&logo=kotlin&logoColor=d946ef)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=&message=Go&color=0a0a0a&logo=go&logoColor=d946ef)
+![Bash](https://img.shields.io/static/v1?style=flat-square&label=&message=Bash&color=0a0a0a&logo=gnu-bash&logoColor=d946ef)
 
 ![Flutter](https://img.shields.io/static/v1?style=flat-square&label=&message=Flutter&color=0a0a0a&logo=flutter&logoColor=d946ef)
 ![Jetpack Compose](https://img.shields.io/static/v1?style=flat-square&label=&message=Jetpack%20Compose&color=0a0a0a&logo=jetpack-compose&logoColor=d946ef)
@@ -33,6 +35,7 @@ Other than that, I love philosophy, anime and music.
 ![Linux](https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&color=0a0a0a&logo=linux&logoColor=d946ef)
 ![Git](https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=0a0a0a&logo=git&logoColor=d946ef)
 ![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=VS%20Code&color=0a0a0a&logo=visualstudiocode&logoColor=d946ef)
+![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=Podman&color=0a0a0a&logo=podman&logoColor=d946ef)
 
 <br>
 
