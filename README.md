@@ -1,8 +1,8 @@
 [![](./media/banner-friendly-transparent.png)](https://zyrouge.is-a.dev/)
 
 <p align="center">
-I am a Software Developer with a love for open-source.<br>
-Other than that, I love philosophy, anime and music.
+I am a Software Developer with a passion for open-source.<br>
+Other than that, I like philosophy, anime and music.
 </p>
 
 <br>
@@ -14,11 +14,12 @@ Other than that, I love philosophy, anime and music.
 ![Node.js](https://img.shields.io/static/v1?style=flat-square&label=&message=Node.js&color=0a0a0a&logo=nodedotjs&logoColor=d946ef)
 ![Javascript](https://img.shields.io/static/v1?style=flat-square&label=&message=Javascript&color=0a0a0a&logo=javascript&logoColor=d946ef)
 ![Typescript](https://img.shields.io/static/v1?style=flat-square&label=&message=Typescript&color=0a0a0a&logo=typescript&logoColor=d946ef)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=&message=HTML&color=0a0a0a&logo=html5&logoColor=d946ef)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=CSS&color=0a0a0a&logo=css3&logoColor=d946ef)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=&message=Go&color=0a0a0a&logo=go&logoColor=d946ef)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&label=&message=Dart&color=0a0a0a&logo=dart&logoColor=d946ef)
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=&message=Kotlin&color=0a0a0a&logo=kotlin&logoColor=d946ef)
-![Go](https://img.shields.io/static/v1?style=flat-square&label=&message=Go&color=0a0a0a&logo=go&logoColor=d946ef)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=&message=Java&color=0a0a0a&logo=openjdk&logoColor=d946ef)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=&message=HTML&color=0a0a0a&logo=html5&logoColor=d946ef)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=CSS&color=0a0a0a&logo=css3&logoColor=d946ef)
 ![Bash](https://img.shields.io/static/v1?style=flat-square&label=&message=Bash&color=0a0a0a&logo=gnu-bash&logoColor=d946ef)
 
 ![Flutter](https://img.shields.io/static/v1?style=flat-square&label=&message=Flutter&color=0a0a0a&logo=flutter&logoColor=d946ef)
@@ -33,6 +34,7 @@ Other than that, I love philosophy, anime and music.
 ![Linux](https://img.shields.io/static/v1?style=flat-square&label=&message=Linux&color=0a0a0a&logo=linux&logoColor=d946ef)
 ![Git](https://img.shields.io/static/v1?style=flat-square&label=&message=Git&color=0a0a0a&logo=git&logoColor=d946ef)
 ![VS Code](https://img.shields.io/static/v1?style=flat-square&label=&message=VS%20Code&color=0a0a0a&logo=visualstudiocode&logoColor=d946ef)
+![Android Studio](https://img.shields.io/static/v1?style=flat-square&label=&message=Android%20Studio&color=0a0a0a&logo=android-studio&logoColor=d946ef)
 ![Figma](https://img.shields.io/static/v1?style=flat-square&label=&message=Figma&color=0a0a0a&logo=figma&logoColor=d946ef)
 ![Podman](https://img.shields.io/static/v1?style=flat-square&label=&message=Podman&color=0a0a0a&logo=podman&logoColor=d946ef)
 
@@ -44,10 +46,9 @@ Other than that, I love philosophy, anime and music.
 
 ## 💜 Socials
 
-[![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Website&color=0a0a0a&logo=aboutdotme&logoColor=d946ef)](https:///zyrouge.is-a.dev/)
+[![Website](https://img.shields.io/static/v1?style=flat-square&label=&message=Website&color=0a0a0a&logo=aboutdotme&logoColor=d946ef)](https:///zyrouge.me/)
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=GitHub&color=0a0a0a&logo=github&logoColor=d946ef)](https://github.com/zyrouge)
 [![Discord](https://img.shields.io/static/v1?style=flat-square&label=&message=Discord&color=0a0a0a&logo=discord&logoColor=d946ef)](https://discord.com/invite/8KV5zCg)
 [![Mastodon](https://img.shields.io/static/v1?style=flat-square&label=&message=Mastodon&color=0a0a0a&logo=mastodon&logoColor=d946ef)](https://mastodon.social/@zyrouge)
-[![Mastodon](https://img.shields.io/static/v1?style=flat-square&label=&message=Instagram&color=0a0a0a&logo=instagram&logoColor=d946ef)](https://instagram.com/_zyrouge_)
-[![Spotify](https://img.shields.io/static/v1?style=flat-square&label=&message=Spotify&color=0a0a0a&logo=spotify&logoColor=d946ef)](https://open.spotify.com/user/1j18hwidprlbek2qngojdan7d)
-[![Mail](https://img.shields.io/static/v1?style=flat-square&label=&message=Mail&color=0a0a0a&logo=gmail&logoColor=d946ef)](mailto:zyrouge@gmail.com)
+[![Bluesky](https://img.shields.io/static/v1?style=flat-square&label=&message=Bluesky&color=0a0a0a&logo=bluesky&logoColor=d946ef)](https://bsky.app/profile/zyrouge.me)
+[![Mail](https://img.shields.io/static/v1?style=flat-square&label=&message=Mail&color=0a0a0a&logo=gmail&logoColor=d946ef)](mailto:hello@zyrouge.me)
